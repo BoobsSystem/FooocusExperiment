@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "auroraxlPlus_v10.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -34,16 +34,12 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
-    ],
-    "default_aspect_ratio": "1152*896",
+    "default_prompt": "raw photo, (18yo redhead girl:1.2), makeup, rouge, neck lace choker, realistic skin texture, oversize knit jumper, red eyes, softcore, warm lighting, cosy atmosphere, Instagram style",
+    "default_prompt_negative": "(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation",
+    "default_styles": [],
+    "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "auroraxlPlus_v10.safetensors": "https://civitai.com/api/download/models/386125"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
