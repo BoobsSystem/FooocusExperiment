@@ -1,5 +1,5 @@
 {
-    "default_model": "auroraxlPlus_v10.safetensors",
+    "default_model": "sd_xl_base_1.0.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,7 +39,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "auroraxlPlus_v10.safetensors": "https://civitai.com/api/download/models/386125"
+        "sd_xl_base_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
